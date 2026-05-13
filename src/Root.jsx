@@ -6,7 +6,7 @@ export function RemotionRoot() {
     <Composition
       id="QuantizationVideo"
       component={QuantizationVideo}
-      durationInFrames={630}
+      durationInFrames={8482}
       fps={30}
       width={1280}
       height={720}
