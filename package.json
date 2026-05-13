@@ -1,0 +1,19 @@
+{
+  "name": "quantization-video",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "render": "remotion render QuantizationVideo out/quantization.mp4",
+    "studio": "remotion studio"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@remotion/cli": "4.0.460",
+    "react": "19.2.6",
+    "react-dom": "19.2.6",
+    "remotion": "4.0.460"
+  }
+}
